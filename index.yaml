@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  alenginx:
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2025-08-08T10:08:14.724809+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 12d44bc4f8dc4922f2603794b7cc17cbd8d03f3acf4d16a24614cd7c82b2e262
+    name: alenginx
+    type: application
+    urls:
+    - alenginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-08T10:08:14.718849+05:30"
